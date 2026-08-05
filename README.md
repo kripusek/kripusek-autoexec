@@ -23,7 +23,7 @@ here is my autoexec, I'll update it periodically
 
 -spinny boy (click f5 to start spinng and f6 to stop)
 
-####
+###
 I found the ascii arts in the doza discord server
 
 
