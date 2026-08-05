@@ -10,6 +10,8 @@ here is my autoexec, I'll update it periodically
 
 
 <img width="484" height="349" alt="image" src="https://github.com/user-attachments/assets/0394afe7-e399-4222-bbea-0b6880ea87c5" />
+
+
 -aga ascii art (click 6 every 0,5 second or something like that) 
 
 
