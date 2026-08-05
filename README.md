@@ -6,7 +6,7 @@ here is my autoexec, I'll update it periodically
 -if you want to you can add "+exec autoexec" as a launch parameter in steam so you don't have to do the command below
 -after loading into game do "exec autoexec" in console
 
-### features
+## features
 -steamhappy ascii art (click 7 every 0,5 second or something like that) 
 
 
@@ -23,7 +23,7 @@ here is my autoexec, I'll update it periodically
 
 -spinny boy (click f5 to start spinng and f6 to stop)
 
-###
+##
 I found the ascii arts in the doza discord server
 
 
