@@ -2,8 +2,8 @@
 here is my autoexec, I'll update it periodically
 
 ## setup instruction
--put the autoexec.cfg into Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
--if you want to you can add "+exec autoexec" as a launch parameter in steam so you don't have to do the command below
+-put the autoexec.cfg into Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg <br>
+-if you want to you can add "+exec autoexec" as a launch parameter in steam so you don't have to do the command below<br>
 -after loading into game do "exec autoexec" in console
 
 ## features
