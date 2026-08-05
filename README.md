@@ -17,6 +17,9 @@ here is my autoexec, I'll update it periodically
 
 
 <img width="543" height="343" alt="image" src="https://github.com/user-attachments/assets/0ad8148d-cd46-4a24-ab0a-1bbed6080a94" />
+
+
+
 -spinny boy (click f5 to start spinng and f6 to stop)
 
 
